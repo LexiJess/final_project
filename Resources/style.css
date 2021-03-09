@@ -1,0 +1,30 @@
+body    {background-color: grey;}
+
+.navbar-brand {
+    
+    font-family:fantasy;
+}
+
+.nav-link {
+    font-family:fantasy;
+}
+
+.fs-1 {
+    color:rgba(247, 243, 247, 0.993); 
+     
+    font-family: fantasy;
+}
+
+#button1 {
+    position:absolute;
+    font-family: fantasy;
+    right: 950px;
+    top: 148px
+}
+
+#button2 {
+    position: absolute;
+    top: 148px;
+    left: 950px;
+}
+
