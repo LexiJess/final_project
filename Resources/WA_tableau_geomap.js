@@ -6,5 +6,5 @@ function initViz() {
         width: "600px",
         height: "600px",
     };
-    viz = new tableau.Viz(tabMonthlySales, url, options);
+    viz = new tableau.Viz(geomap, url, options);
   }
