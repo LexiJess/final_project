@@ -28,3 +28,7 @@ body    {background-color: grey;}
     left: 950px;
 }
 
+#geomap {
+    position: relative;
+    top: 100px;
+}
