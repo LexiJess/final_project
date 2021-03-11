@@ -18,6 +18,3 @@ function initViz() {
   }
 
 
-// function initViz2() {
-    
-// }

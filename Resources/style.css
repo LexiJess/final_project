@@ -29,11 +29,25 @@ body    {background-color: grey;}
 }
 
 #geomap {
-    position: relative;
-    top: 100px;
+    position: absolute;
+    top: 250px;
+    left: 190px;
 }
 
 #radialbarchart {
-    position: relative;
-    top: 200px;
+    position: absolute;
+    top: 1000px;
+    left: 900px;
+}
+
+#cloroplethcard {
+    position: absolute;
+    top: 400px;
+    right: 450px;
+}
+
+#radialbarcard {
+    position:absolute;
+    top: 1200px;
+    left: 450px;
 }
