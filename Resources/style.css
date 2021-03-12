@@ -40,6 +40,17 @@ body    {background-color: grey;}
     left: 850px;
 }
 
+#areachart {
+    position: absolute;
+    top: 1750px;
+}
+
+#areachartcard {
+    position: absolute;
+    top: 2000px;
+    right: 350px;
+}
+
 #cloroplethcard {
     position: absolute;
     top: 400px;
@@ -49,7 +60,7 @@ body    {background-color: grey;}
 #radialbarcard {
     position:absolute;
     top: 1200px;
-    left: 450px;
+    left: 500px;
 }
 
 #chartContainer {
