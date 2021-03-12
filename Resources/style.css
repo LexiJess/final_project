@@ -37,17 +37,52 @@ body    {background-color: grey;}
 #radialbarchart {
     position: absolute;
     top: 1000px;
-    left: 900px;
+    left: 850px;
 }
 
 #cloroplethcard {
     position: absolute;
     top: 400px;
-    right: 450px;
+    right: 350px;
 }
 
 #radialbarcard {
     position:absolute;
     top: 1200px;
     left: 450px;
+}
+
+#chartContainer {
+    position: relative;
+    top: 100px;
+    right: 12px;
+}
+
+#chartContainerB {
+    position: relative;
+    top: 110px;
+    right: 12px;
+}
+
+#chartContainerC {
+    position: relative;
+    top: 120px;
+    right: 12px;
+}
+
+#chartContainerD {
+    position: relative;
+    top: 130px;
+    right: 12px;
+}
+#chartContainerE {
+    position: relative;
+    top: 140px;
+    right: 12px;
+}
+
+#chartContainerF {
+    position: relative;
+    top: 150px;
+    right: 12px;
 }
