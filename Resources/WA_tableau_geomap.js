@@ -1,10 +1,10 @@
 //Tableau Embed function
 function initViz() {
-    url = "https://public.tableau.com/shared/KDQRZ44W7?:display_count=y&:origin=viz_share_link",
+    url = "https://public.tableau.com/shared/J46ZYPMHF?:display_count=y&:origin=viz_share_link",
     options = {
         hideToolbar: true,
-        width: "800px",
-        height: "600px",
+        width: "1300px",
+        height: "1050px",
     };
     viz = new tableau.Viz(geomap, url, options);
 
