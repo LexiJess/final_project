@@ -97,3 +97,30 @@ body    {background-color: grey;}
     top: 150px;
     right: 12px;
 }
+
+#radialscattercard {
+    position: absolute;
+    right: 220px;
+}
+
+#scattercard {
+    position:absolute;
+
+}
+
+#histogramcard {
+    position:absolute;
+    right: 220px;
+}
+
+#residualScattercard {
+    position:relative;
+    top: 500px;
+    bottom: 50px;
+}
+
+#regressioncard {
+    position:relative;
+    top: 500px;
+    left: 360px;
+}
